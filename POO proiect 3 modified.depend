@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1578507740 source:d:\programareboss\proiecteboss\poo proiect 3 modified\main.cpp
+	<iostream>
+	<cstring>
+	<set>
+	<typeinfo>
+	<iterator>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
